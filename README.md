@@ -1,5 +1,8 @@
 # 📅 Calendario 
 
+> [!CAUTION]
+> Este Proyecto es un proyecto de fin de módulo.
+
 ##  Descripción
 
 **Calendario** es una aplicación de escritorio desarrollada en Java utilizando Swing y FlatLaf. El proyecto permite gestionar eventos, categorías, recordatorios y configuraciones de usuario mediante una interfaz.
@@ -68,7 +71,7 @@ src/main/java/es/javierdev/
 
 ---
 
-## 🧠 Funcionamiento general del proyecto
+##  Funcionamiento general del proyecto
 
 La aplicación sigue una arquitectura limpia organizada en capas:
 
